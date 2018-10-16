@@ -1,0 +1,569 @@
+#EXTM3U 
+
+#EXTINF:-1 channel-id="11" tvg-id="DIRECTV SPORT [720] (e)" tvg-logo="http://www.forosecuador.ec/imgfe/directvsports.png"  channel-id="DIRECTV SPORT [720] (e)" group-title="DEPORTE [1080/720/SD]",DIRECTV SPORT [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/21831.ts
+#EXTINF:-1 channel-id="12" tvg-id="DIRECTV SPORT [SD] (e)" tvg-logo="http://www.directv.com.ec/img/directv-logo-fb-150x150.jpg"  channel-id="DIRECTV SPORT [SD] (e)" group-title="DEPORTE [1080/720/SD]",DIRECTV SPORT [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/21832.ts
+#EXTINF:-1 channel-id="13" tvg-id="DIRECTV SPORT 2 [1080] (e)" tvg-logo="http://2.bp.blogspot.com/-vkyDzK0bXOU/U5s35b8rnuI/AAAAAAAAKPE/Fg63BcSEqEI/s1600/D0NYclB.png"  channel-id="DIRECTV SPORT 2 [1080] (e)" group-title="DEPORTE [1080/720/SD]",DIRECTV SPORT 2 [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/21834.ts
+#EXTINF:-1 channel-id="14" tvg-id="DIRECTV SPORT 2 [720] (e)" tvg-logo="http://2.bp.blogspot.com/-vkyDzK0bXOU/U5s35b8rnuI/AAAAAAAAKPE/Fg63BcSEqEI/s1600/D0NYclB.png"  channel-id="DIRECTV SPORT 2 [720] (e)" group-title="DEPORTE [1080/720/SD]",DIRECTV SPORT 2 [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/21835.ts
+#EXTINF:-1 channel-id="15" tvg-id="DIRECTV SPORT 2 [SD] (e)" tvg-logo="http://alcymedia.com/wp-content/uploads/2017/08/directvsports2tv.png"  channel-id="DIRECTV SPORT 2 [SD] (e)" group-title="DEPORTE [1080/720/SD]",DIRECTV SPORT 2 [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/21836.ts
+#EXTINF:-1 channel-id="16" tvg-id="Directv Sport + [1080]." tvg-logo="http://3.bp.blogspot.com/-g6fzEsMu4Sk/UZhaLbVyDuI/AAAAAAAAAZw/MipShLAHQBg/s1600/directv.png"  channel-id="Directv Sport + [1080]." group-title="DEPORTE [1080/720/SD]",Directv Sport + [1080].
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/45807.ts
+#EXTINF:-1 channel-id="17" tvg-id="DIRECTV SPORT + [720]" tvg-logo="https://4.bp.blogspot.com/-qR9bWE07eEM/VyZiPnGM7pI/AAAAAAAABCQ/PuMsld_SK-U3MU4pXB0OgluAtTdbR8wSQCLcB/s200/directv%2Bmas.png"  channel-id="DIRECTV SPORT + [720]" group-title="DEPORTE [1080/720/SD]",DIRECTV SPORT + [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/90901.ts
+#EXTINF:-1 channel-id="18" tvg-id="USA:FOX DEPORTES HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-Deportes-1040x585.jpg"  channel-id="USA:FOX DEPORTES HD" group-title="DEPORTE [1080/720/SD]",USA:FOX DEPORTES HD
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/11605.ts
+#EXTINF:-1 channel-id="19" tvg-id="ARG-FOX SPORT 1 [1080] (e)" tvg-logo="http://images.mi.tv/channels/cl_fox-sports-1-hd_m.png"  channel-id="ARG-FOX SPORT 1 [1080] (e)" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 1 [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91115.ts
+#EXTINF:-1 channel-id="20" tvg-id="ARG-FOX SPORT 1 [720] (e)" tvg-logo="http://images.mi.tv/channels/cl_fox-sports-1-hd_m.png"  channel-id="ARG-FOX SPORT 1 [720] (e)" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 1 [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91116.ts
+#EXTINF:-1 channel-id="21" tvg-id="ARG-FOX SPORT 1 [SD] (e)" tvg-logo="http://images.mi.tv/channels/cl_fox-sports-1-hd_m.png"  channel-id="ARG-FOX SPORT 1 [SD] (e)" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 1 [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91117.ts
+#EXTINF:-1 channel-id="22" tvg-id="ARG-FOX SPORTS 1 [1080]" tvg-logo="http://images.mi.tv/channels/cl_fox-sports-1-hd_m.png"  channel-id="ARG-FOX SPORTS 1 [1080]" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORTS 1 [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/82107.ts
+#EXTINF:-1 channel-id="23" tvg-id="ARG-FOX SPORTS [720]" tvg-logo="http://images.mi.tv/channels/ar_fox-sports-hd_m.png"  channel-id="ARG-FOX SPORTS [720]" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORTS [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/31526.ts
+#EXTINF:-1 channel-id="24" tvg-id="ARG-FOX SPORT [HD]" tvg-logo="http://images.mi.tv/channels/ar_fox-sports-hd_m.png"  channel-id="ARG-FOX SPORT [HD]" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT [HD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/23960.ts
+#EXTINF:-1 channel-id="25" tvg-id="ARG-FOX SPORT [SD]" tvg-logo="https://play.foxsportsla.com/assets/images/Logo-FS.png"  channel-id="ARG-FOX SPORT [SD]" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT [SD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75572.ts
+#EXTINF:-1 channel-id="26" tvg-id="ARG-FOX SPORT 2 [1080] (e)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_11394.png"  channel-id="ARG-FOX SPORT 2 [1080] (e)" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 2 [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91078.ts
+#EXTINF:-1 channel-id="27" tvg-id="ARG-FOX SPORT 2 [720] (e)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_11394.png"  channel-id="ARG-FOX SPORT 2 [720] (e)" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 2 [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91079.ts
+#EXTINF:-1 channel-id="28" tvg-id="ARG-FOX SPORT 2 [SD] (e)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_11394.png"  channel-id="ARG-FOX SPORT 2 [SD] (e)" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 2 [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91080.ts
+#EXTINF:-1 channel-id="29" tvg-id="ARG-FOX SPORT 2 [1080]" tvg-logo="https://lh3.googleusercontent.com/-6aOt1OAU1cY/VL5StmSQf4I/AAAAAAAAABU/WGBT5wxI0Ro/w530-h298-n/FOX2.png"  channel-id="ARG-FOX SPORT 2 [1080]" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 2 [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/82106.ts
+#EXTINF:-1 channel-id="30" tvg-id="ARG-FOX SPORT 2 [720]" tvg-logo="http://4.bp.blogspot.com/-Jro2j6oneWU/UzHah3xwE3I/AAAAAAAAAZA/mB4gz-3IqMc/s1600/1977319_517502378366782_342421131_n.png"  channel-id="ARG-FOX SPORT 2 [720]" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 2 [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/23809.ts
+#EXTINF:-1 channel-id="31" tvg-id="ARG-FOX SPORT 2 [HD]" tvg-logo="http://images.mi.tv/channels/co_fox-sports-2-hd_m.png"  channel-id="ARG-FOX SPORT 2 [HD]" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 2 [HD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/23961.ts
+#EXTINF:-1 channel-id="32" tvg-id="ARG-FOX SPORT 2 [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"  channel-id="ARG-FOX SPORT 2 [SD]" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 2 [SD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75571.ts
+#EXTINF:-1 channel-id="33" tvg-id="ARG-FOX SPORT 3 [1080] (e)" tvg-logo="https://1.bp.blogspot.com/-yD9D2IL26bg/V3_bcdHTRDI/AAAAAAAABHI/yMeMl-hkh4wNqHq2HRrR99GYJ2bDkWHAgCLcB/s1600/fox3.png"  channel-id="ARG-FOX SPORT 3 [1080] (e)" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 3 [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91992.ts
+#EXTINF:-1 channel-id="34" tvg-id="ARG-FOX SPORT 3 [720] (e)" tvg-logo="https://1.bp.blogspot.com/-yD9D2IL26bg/V3_bcdHTRDI/AAAAAAAABHI/yMeMl-hkh4wNqHq2HRrR99GYJ2bDkWHAgCLcB/s1600/fox3.png"  channel-id="ARG-FOX SPORT 3 [720] (e)" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 3 [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91993.ts
+#EXTINF:-1 channel-id="35" tvg-id="ARG-FOX SPORT 3 [SD] (e)" tvg-logo="https://1.bp.blogspot.com/-yD9D2IL26bg/V3_bcdHTRDI/AAAAAAAABHI/yMeMl-hkh4wNqHq2HRrR99GYJ2bDkWHAgCLcB/s1600/fox3.png"  channel-id="ARG-FOX SPORT 3 [SD] (e)" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 3 [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91994.ts
+#EXTINF:-1 channel-id="36" tvg-id="ARG-FOX SPORTS 3 [1080]" tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/Fox%20Sports%203HD.png"  channel-id="ARG-FOX SPORTS 3 [1080]" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORTS 3 [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/82105.ts
+#EXTINF:-1 channel-id="37" tvg-id="ARG-FOX SPORT 3 [720]" tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/Fox%20Sports%203HD.png"  channel-id="ARG-FOX SPORT 3 [720]" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 3 [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/28042.ts
+#EXTINF:-1 channel-id="38" tvg-id="ARG-FOX SPORT 3 [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png"  channel-id="ARG-FOX SPORT 3 [SD]" group-title="DEPORTE [1080/720/SD]",ARG-FOX SPORT 3 [SD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75570.ts
+#EXTINF:-1 channel-id="39" tvg-id="Fox Sports [1080] (CO)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png"  channel-id="Fox Sports [1080] (CO)" group-title="DEPORTE [1080/720/SD]",Fox Sports [1080] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92258.ts
+#EXTINF:-1 channel-id="40" tvg-id="Fox Sports 2 [1080] (CO)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_11394.png"  channel-id="Fox Sports 2 [1080] (CO)" group-title="DEPORTE [1080/720/SD]",Fox Sports 2 [1080] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92260.ts
+#EXTINF:-1 channel-id="41" tvg-id="Fox Sports 3 [1080] (CO)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png"  channel-id="Fox Sports 3 [1080] (CO)" group-title="DEPORTE [1080/720/SD]",Fox Sports 3 [1080] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92259.ts
+#EXTINF:-1 channel-id="42" tvg-id="Fox Sports [720] (CO)" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png"  channel-id="Fox Sports [720] (CO)" group-title="DEPORTE [1080/720/SD]",Fox Sports [720] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92257.ts
+#EXTINF:-1 channel-id="43" tvg-id="Fox Sports 2 HD (CO)" tvg-logo="http://coamosatelliteservice.com/Images/LatinoHDChannels/ESPN2HD.png"  channel-id="Fox Sports 2 HD (CO)" group-title="DEPORTE [1080/720/SD]",Fox Sports 2 HD (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92265.ts
+#EXTINF:-1 channel-id="44" tvg-id="Fox Sports 3 [720] (CO)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png"  channel-id="Fox Sports 3 [720] (CO)" group-title="DEPORTE [1080/720/SD]",Fox Sports 3 [720] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92270.ts
+#EXTINF:-1 channel-id="45" tvg-id="MEX-Fox Sports 1(1080)." tvg-logo="https://2.bp.blogspot.com/-A57SjcEK4G0/V8RPQ2ov6JI/AAAAAAAAFW8/g1zBMhLq9skQvm577iYjDK_x6dWn8Z5LACLcB/s1600/Fox_Sports_1_HD.png"  channel-id="MEX-Fox Sports 1(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports 1(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14843.ts
+#EXTINF:-1 channel-id="46" tvg-id="MEX-Fox Sports [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png"  channel-id="MEX-Fox Sports [SD]" group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports [SD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15073.ts
+#EXTINF:-1 channel-id="47" tvg-id="MEX-Fox Sports 2(1080)." tvg-logo="http://4.bp.blogspot.com/-Jro2j6oneWU/UzHah3xwE3I/AAAAAAAAAZA/mB4gz-3IqMc/s1600/1977319_517502378366782_342421131_n.png"  channel-id="MEX-Fox Sports 2(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports 2(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14839.ts
+#EXTINF:-1 channel-id="48" tvg-id="MEX-Fox Sports 2 [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"  channel-id="MEX-Fox Sports 2 [SD]" group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports 2 [SD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15072.ts
+#EXTINF:-1 channel-id="49" tvg-id="MEX-Fox Sports 3(1080)." tvg-logo="https://4.bp.blogspot.com/-EC4jreNfc8k/V8RR1uOI5zI/AAAAAAAAFXI/CICCECp5lGAcghg2f4NUY_j0kd4-QIEkQCLcB/s1600/Fox_Sports_3_HD-0.png"  channel-id="MEX-Fox Sports 3(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports 3(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14842.ts
+#EXTINF:-1 channel-id="50" tvg-id="MEX-Fox Sports 3 [SD]" tvg-logo="http://dragstermx.com/www/wp-content/uploads/2015/10/Fox_Sports_3_001-880x474.png"  channel-id="MEX-Fox Sports 3 [SD]" group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports 3 [SD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15071.ts
+#EXTINF:-1 channel-id="51" tvg-id="ARG-ESPN [1080] (e)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_20954.png"  channel-id="ARG-ESPN [1080] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/23388.ts
+#EXTINF:-1 channel-id="52" tvg-id="ARG-ESPN [720] (e)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_20954.png"  channel-id="ARG-ESPN [720] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/23389.ts
+#EXTINF:-1 channel-id="53" tvg-id="ARG-ESPN [SD] (e)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_20954.png"  channel-id="ARG-ESPN [SD] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/23390.ts
+#EXTINF:-1 channel-id="54" tvg-id="ARG-ESPN[720]" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/med_gallery_1163_2_20954.png"  channel-id="ARG-ESPN[720]" group-title="DEPORTE [1080/720/SD]",ARG-ESPN[720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/31528.ts
+#EXTINF:-1 channel-id="55" tvg-id="ARG-ESPN 2 [1080] (e)" tvg-logo="https://i.pinimg.com/originals/17/c5/01/17c501cfca8dede07e062578a328e780.png"  channel-id="ARG-ESPN 2 [1080] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN 2 [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/28908.ts
+#EXTINF:-1 channel-id="56" tvg-id="ARG-ESPN 2 [720] (e)" tvg-logo="https://i.pinimg.com/originals/17/c5/01/17c501cfca8dede07e062578a328e780.png"  channel-id="ARG-ESPN 2 [720] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN 2 [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/28909.ts
+#EXTINF:-1 channel-id="57" tvg-id="ARG-ESPN 2 [SD] (e)" tvg-logo="https://i.pinimg.com/originals/17/c5/01/17c501cfca8dede07e062578a328e780.png"  channel-id="ARG-ESPN 2 [SD] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN 2 [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/28910.ts
+#EXTINF:-1 channel-id="58" tvg-id="ARG-ESPN 2 [720]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/2000px-Espn2.svg.png"  channel-id="ARG-ESPN 2 [720]" group-title="DEPORTE [1080/720/SD]",ARG-ESPN 2 [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/31527.ts
+#EXTINF:-1 channel-id="59" tvg-id="ARG-ESPN + [1080] (e)" tvg-logo="https://ugc.kn3.net/i/origin/http://www.multicanalcatamayo.com/cablevisiondondiego/images/espn_lam_plus_andino.png"  channel-id="ARG-ESPN + [1080] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN + [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92214.ts
+#EXTINF:-1 channel-id="60" tvg-id="ARG-ESPN + [720] (e)" tvg-logo="https://ugc.kn3.net/i/origin/http://www.multicanalcatamayo.com/cablevisiondondiego/images/espn_lam_plus_andino.png"  channel-id="ARG-ESPN + [720] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN + [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92215.ts
+#EXTINF:-1 channel-id="61" tvg-id="ARG-ESPN + [SD] (e)" tvg-logo="https://ugc.kn3.net/i/origin/http://www.multicanalcatamayo.com/cablevisiondondiego/images/espn_lam_plus_andino.png"  channel-id="ARG-ESPN + [SD] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN + [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92216.ts
+#EXTINF:-1 channel-id="62" tvg-id="ARG-Espn + [720]" tvg-logo="http://images.mi.tv/channels/gt_espn-hd_m.png"  channel-id="ARG-Espn + [720]" group-title="DEPORTE [1080/720/SD]",ARG-Espn + [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/85772.ts
+#EXTINF:-1 channel-id="63" tvg-id="ARG-ESPN 3 [1080] (e)" tvg-logo="https://www.vidaentv.com/wp-content/uploads/2014/09/logo-espn3hd.jpg"  channel-id="ARG-ESPN 3 [1080] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN 3 [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/96376.ts
+#EXTINF:-1 channel-id="64" tvg-id="ARG-ESPN 3 [720] (e)" tvg-logo="https://www.vidaentv.com/wp-content/uploads/2014/09/logo-espn3hd.jpg"  channel-id="ARG-ESPN 3 [720] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN 3 [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/96377.ts
+#EXTINF:-1 channel-id="65" tvg-id="ARG-ESPN 3 [SD] (e)" tvg-logo="http://images.mi.tv/channels/co_espn-3-hd_m.png"  channel-id="ARG-ESPN 3 [SD] (e)" group-title="DEPORTE [1080/720/SD]",ARG-ESPN 3 [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/96378.ts
+#EXTINF:-1 channel-id="66" tvg-id="ARG-Espn 3 [720]" tvg-logo="http://images.mi.tv/channels/co_espn-3-hd_m.png"  channel-id="ARG-Espn 3 [720]" group-title="DEPORTE [1080/720/SD]",ARG-Espn 3 [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/85771.ts
+#EXTINF:-1 channel-id="67" tvg-id="Espn [1080] (CO)" tvg-logo="https://i.imgur.com/tbievML.jpg"  channel-id="Espn [1080] (CO)" group-title="DEPORTE [1080/720/SD]",Espn [1080] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92268.ts
+#EXTINF:-1 channel-id="68" tvg-id="Espn 2 [1080] (CO)" tvg-logo="http://coamosatelliteservice.com/Images/LatinoHDChannels/ESPN2HD.png"  channel-id="Espn 2 [1080] (CO)" group-title="DEPORTE [1080/720/SD]",Espn 2 [1080] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92263.ts
+#EXTINF:-1 channel-id="69" tvg-id="Espn 3 [1080] (CO)" tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD/DEPORTES/espn-3-hd.jpg"  channel-id="Espn 3 [1080] (CO)" group-title="DEPORTE [1080/720/SD]",Espn 3 [1080] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92262.ts
+#EXTINF:-1 channel-id="70" tvg-id="Espn Plus [1080] (CO)" tvg-logo="https://i.imgur.com/tbievML.jpg"  channel-id="Espn Plus [1080] (CO)" group-title="DEPORTE [1080/720/SD]",Espn Plus [1080] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92261.ts
+#EXTINF:-1 channel-id="71" tvg-id="Espn [720] (CO)" tvg-logo="http://portalservicios.emcali.net.co/grillacanales/img/canales/621-HD-ESPN.png"  channel-id="Espn [720] (CO)" group-title="DEPORTE [1080/720/SD]",Espn [720] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92264.ts
+#EXTINF:-1 channel-id="72" tvg-id="Espn 2 HD (CO)" tvg-logo="http://coamosatelliteservice.com/Images/LatinoHDChannels/ESPN2HD.png"  channel-id="Espn 2 HD (CO)" group-title="DEPORTE [1080/720/SD]",Espn 2 HD (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92266.ts
+#EXTINF:-1 channel-id="73" tvg-id="Espn 3 [720] (CO)" tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/espn-3-hd.png"  channel-id="Espn 3 [720] (CO)" group-title="DEPORTE [1080/720/SD]",Espn 3 [720] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92269.ts
+#EXTINF:-1 channel-id="74" tvg-id="Espn Plus [720] (CO)" tvg-logo="https://i.imgur.com/tbievML.jpg"  channel-id="Espn Plus [720] (CO)" group-title="DEPORTE [1080/720/SD]",Espn Plus [720] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92267.ts
+#EXTINF:-1 channel-id="75" tvg-id="MEX-Espn (1080)." tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD/DEPORTES/191%20-%20Logo-ESPN-HD.png"  channel-id="MEX-Espn (1080)." group-title="DEPORTE [1080/720/SD]",MEX-Espn (1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14841.ts
+#EXTINF:-1 channel-id="76" tvg-id="MEX-ESPN [1080]" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg"  channel-id="MEX-ESPN [1080]" group-title="DEPORTE [1080/720/SD]",MEX-ESPN [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/33932.ts
+#EXTINF:-1 channel-id="77" tvg-id="MEX-Espn [SD]" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg"  channel-id="MEX-Espn [SD]" group-title="DEPORTE [1080/720/SD]",MEX-Espn [SD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15078.ts
+#EXTINF:-1 channel-id="78" tvg-id="MEX-ESPN 2 [1080]" tvg-logo="https://1.bp.blogspot.com/-zfWmwT9TWQA/VO_8EqdcFwI/AAAAAAAABgc/F4ZIp0AfzXU/s640/ESPN%2B2%2B%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png"  channel-id="MEX-ESPN 2 [1080]" group-title="DEPORTE [1080/720/SD]",MEX-ESPN 2 [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/33934.ts
+#EXTINF:-1 channel-id="79" tvg-id="MEX-Espn 2 [SD]" tvg-logo="https://sc.dish.com/shared/images/station-logos/espn2.png"  channel-id="MEX-Espn 2 [SD]" group-title="DEPORTE [1080/720/SD]",MEX-Espn 2 [SD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15077.ts
+#EXTINF:-1 channel-id="80" tvg-id="MEX-ESPN 3 [1080]" tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD/DEPORTES/espn-3-hd.jpg"  channel-id="MEX-ESPN 3 [1080]" group-title="DEPORTE [1080/720/SD]",MEX-ESPN 3 [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/33933.ts
+#EXTINF:-1 channel-id="81" tvg-id="MEX-Espn 3 [SD]" tvg-logo="http://www.imctv.com/wp-content/uploads/2014/10/ESPN3_Network_Logo2.png"  channel-id="MEX-Espn 3 [SD]" group-title="DEPORTE [1080/720/SD]",MEX-Espn 3 [SD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15076.ts
+#EXTINF:-1 channel-id="82" tvg-id="MEX-Espn Plus(1080)." tvg-logo="https://ugc.kn3.net/i/origin/http://www.multicanalcatamayo.com/cablevisiondondiego/images/espn_lam_plus_andino.png"  channel-id="MEX-Espn Plus(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Espn Plus(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14840.ts
+#EXTINF:-1 channel-id="83" tvg-id="EspnPlus" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png"  channel-id="EspnPlus" group-title="DEPORTE [1080/720/SD]",EspnPlus
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15075.ts
+#EXTINF:-1 channel-id="84" tvg-id="IZZI AFIZZINADOS [1080] (C)" tvg-logo="https://i2.esmas.com/2018/06/11/962096/izzi-624x351.jpg"  channel-id="IZZI AFIZZINADOS [1080] (C)" group-title="DEPORTE [1080/720/SD]",IZZI AFIZZINADOS [1080] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92346.ts
+#EXTINF:-1 channel-id="85" tvg-id="IZZI AFIZZIONADOS [1080]" tvg-logo="https://i2.esmas.com/2018/06/11/962096/izzi-624x351.jpg"  channel-id="IZZI AFIZZIONADOS [1080]" group-title="DEPORTE [1080/720/SD]",IZZI AFIZZIONADOS [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91119.ts
+#EXTINF:-1 channel-id="86" tvg-id="IZZI AFIZZIONADOS [720]" tvg-logo="http://i2.esmas.com/2018/06/11/962096/izzi-624x351.jpg"  channel-id="IZZI AFIZZIONADOS [720]" group-title="DEPORTE [1080/720/SD]",IZZI AFIZZIONADOS [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/86982.ts
+#EXTINF:-1 channel-id="87" tvg-id="IZZI AFIZZINADOS [720] (C)" tvg-logo="https://i2.esmas.com/2018/06/11/962096/izzi-624x351.jpg"  channel-id="IZZI AFIZZINADOS [720] (C)" group-title="DEPORTE [1080/720/SD]",IZZI AFIZZINADOS [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92345.ts
+#EXTINF:-1 channel-id="88" tvg-id="TDN DEPORTES [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png"  channel-id="TDN DEPORTES [HD]" group-title="DEPORTE [1080/720/SD]",TDN DEPORTES [HD]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/34542.ts
+#EXTINF:-1 channel-id="89" tvg-id="TDN DEPORTES [720]" tvg-logo="https://2.bp.blogspot.com/-yU2gW6ssjt8/WaUEi8xg6AI/AAAAAAAAATw/Mz47jSd3FlktJ83tL_nm8V3zrOaLisxKACLcBGAs/s1600/TDN-en-vivo.png"  channel-id="TDN DEPORTES [720]" group-title="DEPORTE [1080/720/SD]",TDN DEPORTES [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/33935.ts
+#EXTINF:-1 channel-id="90" tvg-id="UNIVISION TDN [1080] (C)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png"  channel-id="UNIVISION TDN [1080] (C)" group-title="DEPORTE [1080/720/SD]",UNIVISION TDN [1080] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92348.ts
+#EXTINF:-1 channel-id="91" tvg-id="USA:UNIVISION TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png"  channel-id="USA:UNIVISION TDN" group-title="DEPORTE [1080/720/SD]",USA:UNIVISION TDN
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/11607.ts
+#EXTINF:-1 channel-id="92" tvg-id="Univision TDN MX" tvg-logo="https://3.bp.blogspot.com/-M9qiyGcCuIo/VvlSAF7InYI/AAAAAAAABMI/onhLZ_7lwQwQAwLN42ZQ7UlUrEl30NY-w/s1600/univision-tdn.png"  channel-id="Univision TDN MX" group-title="DEPORTE [1080/720/SD]",Univision TDN MX
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/34856.ts
+#EXTINF:-1 channel-id="93" tvg-id="ESPN DEPORTES [1080]." tvg-logo="https://espnmediazone.com/us/files/2011/04/MZ25542_ESPN_Deportes.jpg"  channel-id="ESPN DEPORTES [1080]." group-title="DEPORTE [1080/720/SD]",ESPN DEPORTES [1080].
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/45808.ts
+#EXTINF:-1 channel-id="94" tvg-id="ESPN DEPORTES [720]" tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png"  channel-id="ESPN DEPORTES [720]" group-title="DEPORTE [1080/720/SD]",ESPN DEPORTES [720]
+]-----" group-
+
+
+
+
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/18348.ts
+#EXTINF:-1 channel-id="159" tvg-id="HBO [1080] (e)." tvg-logo="http://images.mi.tv/channels/py_hbo-hd-este_m.png"  channel-id="HBO [1080] (e)." group-title="CINE Y SERIES",HBO [1080] (e).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/82156.ts
+#EXTINF:-1 channel-id="160" tvg-id="HBO [720] (e)." tvg-logo="http://images.mi.tv/channels/py_hbo-hd-este_m.png"  channel-id="HBO [720] (e)." group-title="CINE Y SERIES",HBO [720] (e).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/82157.ts
+#EXTINF:-1 channel-id="161" tvg-id="HBO [SD] (e)." tvg-logo="https://3.bp.blogspot.com/-0HObXqJB0lU/WhlDyKAkBXI/AAAAAAAA3tk/-uDX3eb3b_AU5lGASnOHjSMVtpnv_Ak0wCLcBGAs/s1600/hbo.png"  channel-id="HBO [SD] (e)." group-title="CINE Y SERIES",HBO [SD] (e).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/82158.ts
+#EXTINF:-1 channel-id="162" tvg-id="HBO .[1080]" tvg-logo="http://images.mi.tv/channels/py_hbo-hd-este_m.png"  channel-id="HBO .[1080]" group-title="CINE Y SERIES",HBO .[1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75374.ts
+#EXTINF:-1 channel-id="163" tvg-id="HBO [1080]" tvg-logo="http://images.mi.tv/channels/py_hbo-hd-este_m.png"  channel-id="HBO [1080]" group-title="CINE Y SERIES",HBO [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/28904.ts
+#EXTINF:-1 channel-id="164" tvg-id="HBO [1080] [Dual Audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png"  channel-id="HBO [1080] [Dual Audio]" group-title="CINE Y SERIES",HBO [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75940.ts
+#EXTINF:-1 channel-id="165" tvg-id="HBO [720]" tvg-logo="http://images.mi.tv/channels/py_hbo-hd-este_m.png"  channel-id="HBO [720]" group-title="CINE Y SERIES",HBO [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/28905.ts
+#EXTINF:-1 channel-id="166" tvg-id="HBO HD [Dual Audio]" tvg-logo=""  channel-id="HBO HD [Dual Audio]" group-title="CINE Y SERIES",HBO HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75900.ts
+#EXTINF:-1 channel-id="167" tvg-id="HBO 2 [1080] (e)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png"  channel-id="HBO 2 [1080] (e)" group-title="CINE Y SERIES",HBO 2 [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/88045.ts
+#EXTINF:-1 channel-id="168" tvg-id="HBO 2 [720] (e)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png"  channel-id="HBO 2 [720] (e)" group-title="CINE Y SERIES",HBO 2 [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/88046.ts
+#EXTINF:-1 channel-id="169" tvg-id="HBO 2 [SD] (e)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png"  channel-id="HBO 2 [SD] (e)" group-title="CINE Y SERIES",HBO 2 [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/88047.ts
+#EXTINF:-1 channel-id="170" tvg-id="HBO 2 [1080]" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/Hbo_2_hd.png"  channel-id="HBO 2 [1080]" group-title="CINE Y SERIES",HBO 2 [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/28906.ts
+#EXTINF:-1 channel-id="171" tvg-id="HBO 2 [1080] [Dual Audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png"  channel-id="HBO 2 [1080] [Dual Audio]" group-title="CINE Y SERIES",HBO 2 [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75938.ts
+#EXTINF:-1 channel-id="172" tvg-id="HBO 2.[1080]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png"  channel-id="HBO 2.[1080]" group-title="CINE Y SERIES",HBO 2.[1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75373.ts
+#EXTINF:-1 channel-id="173" tvg-id="HBO 2 [720]" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/Hbo_2_hd.png"  channel-id="HBO 2 [720]" group-title="CINE Y SERIES",HBO 2 [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/28907.ts
+#EXTINF:-1 channel-id="174" tvg-id="HBO 2 HD [Dual Audio]" tvg-logo=""  channel-id="HBO 2 HD [Dual Audio]" group-title="CINE Y SERIES",HBO 2 HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75898.ts
+#EXTINF:-1 channel-id="175" tvg-id="HBO FAMILY [1080] (e)" tvg-logo="https://altice.com.do/sites/default/files/assets/images/logos_canales/HBOFamilyHD.png"  channel-id="HBO FAMILY [1080] (e)" group-title="CINE Y SERIES",HBO FAMILY [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/88048.ts
+#EXTINF:-1 channel-id="176" tvg-id="HBO FAMILY [720] (e)" tvg-logo="https://altice.com.do/sites/default/files/assets/images/logos_canales/HBOFamilyHD.png"  channel-id="HBO FAMILY [720] (e)" group-title="CINE Y SERIES",HBO FAMILY [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/88049.ts
+#EXTINF:-1 channel-id="177" tvg-id="HBO FAMILY [SD] (e)" tvg-logo="https://altice.com.do/sites/default/files/assets/images/logos_canales/HBOFamilyHD.png"  channel-id="HBO FAMILY [SD] (e)" group-title="CINE Y SERIES",HBO FAMILY [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/88050.ts
+#EXTINF:-1 channel-id="178" tvg-id="HBO Family [1080] [Dual Audio]" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png"  channel-id="HBO Family [1080] [Dual Audio]" group-title="CINE Y SERIES",HBO Family [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75939.ts
+#EXTINF:-1 channel-id="179" tvg-id="HBO FAMILY. [1080]" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png"  channel-id="HBO FAMILY. [1080]" group-title="CINE Y SERIES",HBO FAMILY. [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75375.ts
+#EXTINF:-1 channel-id="180" tvg-id="Hbo Family.[1080]" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png"  channel-id="Hbo Family.[1080]" group-title="CINE Y SERIES",Hbo Family.[1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/82701.ts
+#EXTINF:-1 channel-id="181" tvg-id="HBO Family HD [Dual Audio]" tvg-logo=""  channel-id="HBO Family HD [Dual Audio]" group-title="CINE Y SERIES",HBO Family HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75899.ts
+#EXTINF:-1 channel-id="182" tvg-id="HBO SIGNATURE [1080] (e)" tvg-logo="http://www.pickcinema.com/images/tv/logos/hbosge.png"  channel-id="HBO SIGNATURE [1080] (e)" group-title="CINE Y SERIES",HBO SIGNATURE [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/96379.ts
+#EXTINF:-1 channel-id="183" tvg-id="HBO SIGNATURE [720] (e)" tvg-logo="http://www.pickcinema.com/images/tv/logos/hbosge.png"  channel-id="HBO SIGNATURE [720] (e)" group-title="CINE Y SERIES",HBO SIGNATURE [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/96380.ts
+#EXTINF:-1 channel-id="184" tvg-id="HBO SIGNATURE [SD] (e)" tvg-logo="https://tv-internet.co/wp-content/uploads/2018/08/HBO-Signature-en-vivo.png"  channel-id="HBO SIGNATURE [SD] (e)" group-title="CINE Y SERIES",HBO SIGNATURE [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/96381.ts
+#EXTINF:-1 channel-id="185" tvg-id="HBO SIGNATURE [1080]" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Signature_HD.png"  channel-id="HBO SIGNATURE [1080]" group-title="CINE Y SERIES",HBO SIGNATURE [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75377.ts
+#EXTINF:-1 channel-id="186" tvg-id="HBO Signature [1080] [Dual Audio]" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/sml_gallery_1157_6_3018.png"  channel-id="HBO Signature [1080] [Dual Audio]" group-title="CINE Y SERIES",HBO Signature [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75942.ts
+#EXTINF:-1 channel-id="187" tvg-id="HBO Signature [720] [Dual Audio]" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/HBO_Signature_HD.png"  channel-id="HBO Signature [720] [Dual Audio]" group-title="CINE Y SERIES",HBO Signature [720] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75902.ts
+#EXTINF:-1 channel-id="188" tvg-id="HBO PLUS [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_07/gallery_1157_1_11888.png.e1abffe10c811752f2cc8a48898fec69.png"  channel-id="HBO PLUS [1080]" group-title="CINE Y SERIES",HBO PLUS [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75376.ts
+#EXTINF:-1 channel-id="189" tvg-id="HBO Plus [1080] [Dual Audio]" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_07/gallery_1157_1_11888.png.e1abffe10c811752f2cc8a48898fec69.png"  channel-id="HBO Plus [1080] [Dual Audio]" group-title="CINE Y SERIES",HBO Plus [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75941.ts
+#EXTINF:-1 channel-id="190" tvg-id="HBO Plus HD [Dual Audio]" tvg-logo=""  channel-id="HBO Plus HD [Dual Audio]" group-title="CINE Y SERIES",HBO Plus HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75901.ts
+#EXTINF:-1 channel-id="191" tvg-id="ULTRA MEX 720 (c)" tvg-logo="https://mark.trademarkia.com/logo-images/olympusat/ultra-mex-85364966.jpg"  channel-id="ULTRA MEX 720 (c)" group-title="CINE Y SERIES",ULTRA MEX 720 (c)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92405.ts
+#EXTINF:-1 channel-id="192" tvg-id="ULTRA BANDA [720] (C)" tvg-logo="http://cdn.assets3.olympusat.com/wp-content/uploads/ultraBanda_NLogo.png"  channel-id="ULTRA BANDA [720] (C)" group-title="CINE Y SERIES",ULTRA BANDA [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92337.ts
+#EXTINF:-1 channel-id="193" tvg-id="ULTRA CINE [720] (C)" tvg-logo="https://pbs.twimg.com/profile_images/662386206626463744/OpLpvLun.jpg"  channel-id="ULTRA CINE [720] (C)" group-title="CINE Y SERIES",ULTRA CINE [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92336.ts
+#EXTINF:-1 channel-id="194" tvg-id="ULTRA CLASICO [720] (C)" tvg-logo="http://cdn.assets.olympusat.com/wp-content/uploads/UltraClasico_300x100.png"  channel-id="ULTRA CLASICO [720] (C)" group-title="CINE Y SERIES",ULTRA CLASICO [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92335.ts
+#EXTINF:-1 channel-id="195" tvg-id="ULTRA DOCUMENTALES [720] (C)" tvg-logo="https://yt3.ggpht.com/-rKYqjB5lPZo/AAAAAAAAAAI/AAAAAAAAAAA/UuNK_0AfAYs/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg"  channel-id="ULTRA DOCUMENTALES [720] (C)" group-title="CINE Y SERIES",ULTRA DOCUMENTALES [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92334.ts
+#EXTINF:-1 channel-id="196" tvg-id="ULTRA FAMILIA [720] (C)" tvg-logo="http://cdn.assets2.olympusat.com/wp-content/uploads/UltraFamiliaLogoBlack.png"  channel-id="ULTRA FAMILIA [720] (C)" group-title="CINE Y SERIES",ULTRA FAMILIA [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92333.ts
+#EXTINF:-1 channel-id="197" tvg-id="ULTRA FIESTA [720] (C)" tvg-logo="http://cdn.assets.olympusat.com/wp-content/uploads/UltraFiestaLogoBlack.png"  channel-id="ULTRA FIESTA [720] (C)" group-title="CINE Y SERIES",ULTRA FIESTA [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92332.ts
+#EXTINF:-1 channel-id="198" tvg-id="ULTRA FILM [720] (C)" tvg-logo="http://cdn.assets.olympusat.com/wp-content/uploads/2017/05/UltraFilmcharcoal.png"  channel-id="ULTRA FILM [720] (C)" group-title="CINE Y SERIES",ULTRA FILM [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92331.ts
+#EXTINF:-1 channel-id="199" tvg-id="ULTRA KIDZ [720] (C)" tvg-logo="http://cdn.assets.olympusat.com/wp-content/uploads/2017/05/UltraKidzcharcoal.png"  channel-id="ULTRA KIDZ [720] (C)" group-title="CINE Y SERIES",ULTRA KIDZ [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92330.ts
+#EXTINF:-1 channel-id="200" tvg-id="ULTRA LUNA [720] (C)" tvg-logo="https://yt3.ggpht.com/-xNuGWq8ZsFU/AAAAAAAAAAI/AAAAAAAAAAA/9wZPuibpipQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg"  channel-id="ULTRA LUNA [720] (C)" group-title="CINE Y SERIES",ULTRA LUNA [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92329.ts
+#EXTINF:-1 channel-id="201" tvg-id="ULTRA MACHO [720] (C)" tvg-logo="http://cdn.assets.olympusat.com/wp-content/uploads/2017/05/UltraMachocharcoal.png"  channel-id="ULTRA MACHO [720] (C)" group-title="CINE Y SERIES",ULTRA MACHO [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92328.ts
+#EXTINF:-1 channel-id="202" tvg-id="ULTRA TAINMENT [720] (C)" tvg-logo="https://yt3.ggpht.com/-fRLPVFQvqLo/AAAAAAAAAAI/AAAAAAAAAAA/XSeEWClwBz4/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg"  channel-id="ULTRA TAINMENT [720] (C)" group-title="CINE Y SERIES",ULTRA TAINMENT [720] (C)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92327.ts
+#EXTINF:-1 channel-id="203" tvg-id="A/E Mundo [1080] [Dual audio]" tvg-logo="http://images.mi.tv/channels/co_a-e-mundo-hd_m.png"  channel-id="A/E Mundo [1080] [Dual audio]" group-title="CINE Y SERIES",A/E Mundo [1080] [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75905.ts
+#EXTINF:-1 channel-id="204" tvg-id="A&E(1080)." tvg-logo="http://blog.cablevision.net.mx/wp-content/uploads/2011/06/AEHD.jpg"  channel-id="A&E(1080)." group-title="CINE Y SERIES",A&E(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14860.ts
+#EXTINF:-1 channel-id="205" tvg-id="AE Mundo HD [Dual audio]" tvg-logo=""  channel-id="AE Mundo HD [Dual audio]" group-title="CINE Y SERIES",AE Mundo HD [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75867.ts
+#EXTINF:-1 channel-id="206" tvg-id="AMC(1080)." tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/730-AMC-HD-01.jpg"  channel-id="AMC(1080)." group-title="CINE Y SERIES",AMC(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14847.ts
+#EXTINF:-1 channel-id="207" tvg-id="AXN(1080)." tvg-logo="https://telecomtalk.info/wp-content/uploads/2014/08/axn-hd-launch-india.png"  channel-id="AXN(1080)." group-title="CINE Y SERIES",AXN(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14859.ts
+#EXTINF:-1 channel-id="208" tvg-id="AXN [1080] [Dual audio]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/AXN_HD_logo.png"  channel-id="AXN [1080] [Dual audio]" group-title="CINE Y SERIES",AXN [1080] [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75906.ts
+#EXTINF:-1 channel-id="209" tvg-id="AXN HD [Dual audio]" tvg-logo=""  channel-id="AXN HD [Dual audio]" group-title="CINE Y SERIES",AXN HD [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75868.ts
+#EXTINF:-1 channel-id="210" tvg-id="Cinecanal [1080] [Dual Audio]" tvg-logo="https://4.bp.blogspot.com/-ulTnWlS4PCs/WYtQL9aRe0I/AAAAAAAAAiw/zKzNsK4SplEahTkIjjsd3JpWbmUO2zz-ACLcBGAs/s1600/Logo%2BCinecanal%2BHD.png"  channel-id="Cinecanal [1080] [Dual Audio]" group-title="CINE Y SERIES",Cinecanal [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75927.ts
+#EXTINF:-1 channel-id="211" tvg-id="Cinecanal(1080)." tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png"  channel-id="Cinecanal(1080)." group-title="CINE Y SERIES",Cinecanal(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14849.ts
+#EXTINF:-1 channel-id="212" tvg-id="Cinecanal HD [Dual Audio]" tvg-logo=""  channel-id="Cinecanal HD [Dual Audio]" group-title="CINE Y SERIES",Cinecanal HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75888.ts
+#EXTINF:-1 channel-id="213" tvg-id="Cinemax(1080)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_22580.png"  channel-id="Cinemax(1080)" group-title="CINE Y SERIES",Cinemax(1080)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14972.ts
+#EXTINF:-1 channel-id="214" tvg-id="Claro Cinema (CO)" tvg-logo="https://mark.trademarkia.com/logo-images/claro-sa/claro-cinema-86830508.jpg"  channel-id="Claro Cinema (CO)" group-title="CINE Y SERIES",Claro Cinema (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92217.ts
+#EXTINF:-1 channel-id="215" tvg-id="Comedy Central [1080] [Dual audio]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/small.58ef94449b809_ComedyCentralHD.png.e2a0a530c28c2726a400441558d76b53.png"  channel-id="Comedy Central [1080] [Dual audio]" group-title="CINE Y SERIES",Comedy Central [1080] [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75921.ts
+#EXTINF:-1 channel-id="216" tvg-id="Comedy Central(1080)." tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58ef94449b809_ComedyCentralHD.png.fb1014dd7e1cfb96ee6e0813d7a82c7d.png"  channel-id="Comedy Central(1080)." group-title="CINE Y SERIES",Comedy Central(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14858.ts
+#EXTINF:-1 channel-id="217" tvg-id="Comedy Central HD [Dual audio]" tvg-logo=""  channel-id="Comedy Central HD [Dual audio]" group-title="CINE Y SERIES",Comedy Central HD [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75880.ts
+#EXTINF:-1 channel-id="218" tvg-id="CINE DINAMITA (M)" tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png"  channel-id="CINE DINAMITA (M)" group-title="CINE Y SERIES",CINE DINAMITA (M)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/96348.ts
+#EXTINF:-1 channel-id="219" tvg-id="CINE LATINO (M)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png"  channel-id="CINE LATINO (M)" group-title="CINE Y SERIES",CINE LATINO (M)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/96347.ts
+#EXTINF:-1 channel-id="220" tvg-id="DHE(1080)." tvg-logo="https://mark.trademarkia.com/logo-images/dhe-group-inc/dhe-hd-86810915.jpg"  channel-id="DHE(1080)." group-title="CINE Y SERIES",DHE(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14851.ts
+#EXTINF:-1 channel-id="221" tvg-id="Distrito Comedia(1080)." tvg-logo="http://files.actionpelis.webnode.es/200000026-128c41385e/DistritoComedia-8.jpg"  channel-id="Distrito Comedia(1080)." group-title="CINE Y SERIES",Distrito Comedia(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14857.ts
+#EXTINF:-1 channel-id="222" tvg-id="FOX (1080)" tvg-logo="http://images.mi.tv/channels/ar_fox_m.png"  channel-id="FOX (1080)" group-title="CINE Y SERIES",FOX (1080)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/17050.ts
+#EXTINF:-1 channel-id="223" tvg-id="FOX [1080]" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/05/fox-hd-nat-geo-hd-e-fx-hd-chegam-a-net-em-junho.jpg"  channel-id="FOX [1080]" group-title="CINE Y SERIES",FOX [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75378.ts
+#EXTINF:-1 channel-id="224" tvg-id="FOX [1080]." tvg-logo="http://images.mi.tv/channels/ar_fox-hd_m.png"  channel-id="FOX [1080]." group-title="CINE Y SERIES",FOX [1080].
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/46794.ts
+#EXTINF:-1 channel-id="225" tvg-id="FOX COMEDY [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1557.png.9db978d5212d1e869171b7207529ab57.png"  channel-id="FOX COMEDY [1080]" group-title="CINE Y SERIES",FOX COMEDY [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75383.ts
+#EXTINF:-1 channel-id="226" tvg-id="FOX FAMILY [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1556.png.7620d752c943c835166f8b6c7e721cc9.png"  channel-id="FOX FAMILY [1080]" group-title="CINE Y SERIES",FOX FAMILY [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75384.ts
+#EXTINF:-1 channel-id="227" tvg-id="FOX MOVIES [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1559.png.5e5bd9e6882c26e41e413379b0ad739c.png"  channel-id="FOX MOVIES [1080]" group-title="CINE Y SERIES",FOX MOVIES [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75385.ts
+#EXTINF:-1 channel-id="228" tvg-id="FOX ACTION [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png"  channel-id="FOX ACTION [1080]" group-title="CINE Y SERIES",FOX ACTION [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75380.ts
+#EXTINF:-1 channel-id="229" tvg-id="Fox Premium Action [1080] [Dual Audio]" tvg-logo="https://c1.staticflickr.com/4/3850/32978351070_45c3a12371.jpg"  channel-id="Fox Premium Action [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Action [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75932.ts
+#EXTINF:-1 channel-id="230" tvg-id="Fox Premium Action(1080)." tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png"  channel-id="Fox Premium Action(1080)." group-title="CINE Y SERIES",Fox Premium Action(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14863.ts
+#EXTINF:-1 channel-id="231" tvg-id="Fox Premium Action HD [Dual Audio]" tvg-logo=""  channel-id="Fox Premium Action HD [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Action HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75892.ts
+#EXTINF:-1 channel-id="232" tvg-id="FOX CINEMA [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1562.png.d403a0581ddbd543e2f930ada659c984.png"  channel-id="FOX CINEMA [1080]" group-title="CINE Y SERIES",FOX CINEMA [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75381.ts
+#EXTINF:-1 channel-id="233" tvg-id="Fox Premium Cinema [1080] [Dual Audio]" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/05/fox-cinema.png"  channel-id="Fox Premium Cinema [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Cinema [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75935.ts
+#EXTINF:-1 channel-id="234" tvg-id="Fox Premium Cinema HD [Dual Audio]" tvg-logo=""  channel-id="Fox Premium Cinema HD [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Cinema HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75893.ts
+#EXTINF:-1 channel-id="235" tvg-id="Fox Premium Classics HD [Dual Audio]" tvg-logo=""  channel-id="Fox Premium Classics HD [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Classics HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75866.ts
+#EXTINF:-1 channel-id="236" tvg-id="FOX CLASSICS [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.581258075f10c_FoxClassicsHD.png.282493f090b1e985a280f9cff4b6cf4b.png"  channel-id="FOX CLASSICS [1080]" group-title="CINE Y SERIES",FOX CLASSICS [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75382.ts
+#EXTINF:-1 channel-id="237" tvg-id="Fox Premium Classics [1080] [Dual Audio]" tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Classics-300x98-167538583.png"  channel-id="Fox Premium Classics [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Classics [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75931.ts
+#EXTINF:-1 channel-id="238" tvg-id="Fox Premium Comedy [1080] [Dual Audio]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1557.png.9db978d5212d1e869171b7207529ab57.png"  channel-id="Fox Premium Comedy [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Comedy [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75937.ts
+#EXTINF:-1 channel-id="239" tvg-id="Fox Premium Comedy HD [Dual Audio]" tvg-logo=""  channel-id="Fox Premium Comedy HD [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Comedy HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75894.ts
+#EXTINF:-1 channel-id="240" tvg-id="Fox Premium Family [1080] [Dual Audio]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1556.png.7620d752c943c835166f8b6c7e721cc9.png"  channel-id="Fox Premium Family [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Family [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75933.ts
+#EXTINF:-1 channel-id="241" tvg-id="Fox Premium Family HD [Dual Audio]" tvg-logo=""  channel-id="Fox Premium Family HD [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Family HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75895.ts
+#EXTINF:-1 channel-id="242" tvg-id="FOX PREMIUM MOVIES(1080)" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1559.png.5e5bd9e6882c26e41e413379b0ad739c.png"  channel-id="FOX PREMIUM MOVIES(1080)" group-title="CINE Y SERIES",FOX PREMIUM MOVIES(1080)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/17051.ts
+#EXTINF:-1 channel-id="243" tvg-id="Fox Premium Movies [1080] [Dual Audio]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1559.png.5e5bd9e6882c26e41e413379b0ad739c.png"  channel-id="Fox Premium Movies [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Movies [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75936.ts
+#EXTINF:-1 channel-id="244" tvg-id="Fox Premium Movies HD [Dual Audio]" tvg-logo=""  channel-id="Fox Premium Movies HD [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Movies HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75896.ts
+#EXTINF:-1 channel-id="245" tvg-id="FOX PREMIUM SERIES [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1552.png.3368f8635097a2c7591feefb116bdba1.png"  channel-id="FOX PREMIUM SERIES [1080]" group-title="CINE Y SERIES",FOX PREMIUM SERIES [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/46791.ts
+#EXTINF:-1 channel-id="246" tvg-id="Fox Premium Series [1080] [Dual Audio]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1552.png.3368f8635097a2c7591feefb116bdba1.png"  channel-id="Fox Premium Series [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Series [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75934.ts
+#EXTINF:-1 channel-id="247" tvg-id="Fox Premium Series(1080)." tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1552.png.3368f8635097a2c7591feefb116bdba1.png"  channel-id="Fox Premium Series(1080)." group-title="CINE Y SERIES",Fox Premium Series(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14862.ts
+#EXTINF:-1 channel-id="248" tvg-id="Fox Premium Series HD [Dual Audio]" tvg-logo=""  channel-id="Fox Premium Series HD [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Series HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75897.ts
+#EXTINF:-1 channel-id="249" tvg-id="FOX SERIE [1080]" tvg-logo="http://images.mi.tv/channels/cl_fox-1-hd_m.png"  channel-id="FOX SERIE [1080]" group-title="CINE Y SERIES",FOX SERIE [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75379.ts
+#EXTINF:-1 channel-id="250" tvg-id="FX [1080]" tvg-logo="http://memotv.alwaysdata.net/thumbs/fx%20hd%20logo.png"  channel-id="FX [1080]" group-title="CINE Y SERIES",FX [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75463.ts
+#EXTINF:-1 channel-id="251" tvg-id="FX [1080] [Dual Audio]" tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/f/fb/Fx_us_hd.png"  channel-id="FX [1080] [Dual Audio]" group-title="CINE Y SERIES",FX [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75924.ts
+#EXTINF:-1 channel-id="252" tvg-id="FX(1080)." tvg-logo="http://americablejapan.net/images/station_logos/fx_hdjpg.jpg"  channel-id="FX(1080)." group-title="CINE Y SERIES",FX(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14864.ts
+#EXTINF:-1 channel-id="253" tvg-id="FX HD [Dual Audio]" tvg-logo=""  channel-id="FX HD [Dual Audio]" group-title="CINE Y SERIES",FX HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75882.ts
+#EXTINF:-1 channel-id="254" tvg-id="FXM(1080)" tvg-logo="https://sc.dish.com/shared/images/station-logos/fxm.png"  channel-id="FXM(1080)" group-title="CINE Y SERIES",FXM(1080)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14971.ts
+#EXTINF:-1 channel-id="255" tvg-id="Golden HD(1080)." tvg-logo="http://etb.com.co/hogares/img1/guia/logos/logo-goldenhd.jpg"  channel-id="Golden HD(1080)." group-title="CINE Y SERIES",Golden HD(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14848.ts
+#EXTINF:-1 channel-id="256" tvg-id="Golden Plus [1080] [Dual Audio]" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"  channel-id="Golden Plus [1080] [Dual Audio]" group-title="CINE Y SERIES",Golden Plus [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75929.ts
+#EXTINF:-1 channel-id="257" tvg-id="Golden Plus HD [Dual Audio]" tvg-logo=""  channel-id="Golden Plus HD [Dual Audio]" group-title="CINE Y SERIES",Golden Plus HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75890.ts
+#EXTINF:-1 channel-id="258" tvg-id="Golden Premier [1080] [Dual Audio]" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png"  channel-id="Golden Premier [1080] [Dual Audio]" group-title="CINE Y SERIES",Golden Premier [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75928.ts
+#EXTINF:-1 channel-id="259" tvg-id="Golden Premier HD [Dual Audio]" tvg-logo=""  channel-id="Golden Premier HD [Dual Audio]" group-title="CINE Y SERIES",Golden Premier HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75889.ts
+#EXTINF:-1 channel-id="260" tvg-id="GOLDEN PREMIER 2 [1080]" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/alacarta/10.png"  channel-id="GOLDEN PREMIER 2 [1080]" group-title="CINE Y SERIES",GOLDEN PREMIER 2 [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/33936.ts
+#EXTINF:-1 channel-id="261" tvg-id="Max Prime [1080] [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-xSlKZDRuwyQ/Wh8P9hfK_uI/AAAAAAAAPCg/_WVVBRWN8lsez-sIW2uQnZczTcXYDURUQCLcBGAs/h200/MAX_PRIME_HD.png"  channel-id="Max Prime [1080] [Dual Audio]" group-title="CINE Y SERIES",Max Prime [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75943.ts
+#EXTINF:-1 channel-id="262" tvg-id="Max Prime [720] [Dual Audio]" tvg-logo="http://www.videocableconcordia.com.ar/canales/max_primeHD.png"  channel-id="Max Prime [720] [Dual Audio]" group-title="CINE Y SERIES",Max Prime [720] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75903.ts
+#EXTINF:-1 channel-id="263" tvg-id="Max Up [1080] [Dual Audio]" tvg-logo="https://revistasenal.com/wp-content/uploads/2015/01/max-up-canal.png"  channel-id="Max Up [1080] [Dual Audio]" group-title="CINE Y SERIES",Max Up [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75944.ts
+#EXTINF:-1 channel-id="264" tvg-id="Max Up [720] [Dual Audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png"  channel-id="Max Up [720] [Dual Audio]" group-title="CINE Y SERIES",Max Up [720] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75904.ts
+#EXTINF:-1 channel-id="265" tvg-id="Paramount [1080] [Dual Audio]" tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/ch-paramount-channel-hd-290-280x140-738874469.png"  channel-id="Paramount [1080] [Dual Audio]" group-title="CINE Y SERIES",Paramount [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75930.ts
+#EXTINF:-1 channel-id="266" tvg-id="Paramount(1080)." tvg-logo="https://i.ytimg.com/vi/W6aEYK71lxM/maxresdefault.jpg"  channel-id="Paramount(1080)." group-title="CINE Y SERIES",Paramount(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14850.ts
+#EXTINF:-1 channel-id="267" tvg-id="Paramount HD [Dual Audio]" tvg-logo=""  channel-id="Paramount HD [Dual Audio]" group-title="CINE Y SERIES",Paramount HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75891.ts
+#EXTINF:-1 channel-id="268" tvg-id="Sony [1080] [Dual audio]" tvg-logo="http://blog.cablevision.net.mx/wp-content/uploads/2011/06/sony.jpg"  channel-id="Sony [1080] [Dual audio]" group-title="CINE Y SERIES",Sony [1080] [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75907.ts
+#EXTINF:-1 channel-id="269" tvg-id="Sony(1080)." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/1280px-Canal_Sony_HD_logo.svg.png"  channel-id="Sony(1080)." group-title="CINE Y SERIES",Sony(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14856.ts
+#EXTINF:-1 channel-id="270" tvg-id="Sony HD [Dual audio]" tvg-logo=""  channel-id="Sony HD [Dual audio]" group-title="CINE Y SERIES",Sony HD [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75870.ts
+#EXTINF:-1 channel-id="271" tvg-id="Space [1080] [Dual Audio]" tvg-logo="https://4.bp.blogspot.com/-lFk8QpkoAK8/WCoYaNh_wSI/AAAAAAAAEK8/OaM2yGAVAOEYa3QoLg1qmo0rlBT8jGi3wCLcB/s1600/space_hd.png"  channel-id="Space [1080] [Dual Audio]" group-title="CINE Y SERIES",Space [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75925.ts
+#EXTINF:-1 channel-id="272" tvg-id="Space(1080)." tvg-logo="https://4.bp.blogspot.com/-lFk8QpkoAK8/WCoYaNh_wSI/AAAAAAAAEK8/OaM2yGAVAOEYa3QoLg1qmo0rlBT8jGi3wCLcB/s1600/space_hd.png"  channel-id="Space(1080)." group-title="CINE Y SERIES",Space(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14846.ts
+#EXTINF:-1 channel-id="273" tvg-id="Space HD [Dual Audio]" tvg-logo=""  channel-id="Space HD [Dual Audio]" group-title="CINE Y SERIES",Space HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75886.ts
+#EXTINF:-1 channel-id="274" tvg-id="TNT (1080)." tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-tnthd.jpg"  channel-id="TNT (1080)." group-title="CINE Y SERIES",TNT (1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14844.ts
+#EXTINF:-1 channel-id="275" tvg-id="TNT [1080] [Dual audio]" tvg-logo="https://mitvstatic.com/channels/br_tnt-hd_m.png"  channel-id="TNT [1080] [Dual audio]" group-title="CINE Y SERIES",TNT [1080] [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75910.ts
+#EXTINF:-1 channel-id="276" tvg-id="TNT HD [Dual audio]" tvg-logo=""  channel-id="TNT HD [Dual audio]" group-title="CINE Y SERIES",TNT HD [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75871.ts
+#EXTINF:-1 channel-id="277" tvg-id="TNT Series [1080] [Dual Audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/1280px-TNT_Serie_HD.svg.png"  channel-id="TNT Series [1080] [Dual Audio]" group-title="CINE Y SERIES",TNT Series [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75926.ts
+#EXTINF:-1 channel-id="278" tvg-id="Tnt Series(1080)." tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_5617_6_26684.png"  channel-id="Tnt Series(1080)." group-title="CINE Y SERIES",Tnt Series(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14854.ts
+#EXTINF:-1 channel-id="279" tvg-id="TNT Series HD [Dual Audio]" tvg-logo=""  channel-id="TNT Series HD [Dual Audio]" group-title="CINE Y SERIES",TNT Series HD [Dual Audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75887.ts
+#EXTINF:-1 channel-id="280" tvg-id="Studio Universal(1080)." tvg-logo="https://i.pinimg.com/originals/f9/b7/2d/f9b72db760ce7b8cf791d0d2cf4c853e.png"  channel-id="Studio Universal(1080)." group-title="CINE Y SERIES",Studio Universal(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14845.ts
+#EXTINF:-1 channel-id="281" tvg-id="Universal Channel(1080)." tvg-logo="http://media.revistasenal.com/wp-content/uploads/2010/11/universal-hd-llega-a-directv.jpg"  channel-id="Universal Channel(1080)." group-title="CINE Y SERIES",Universal Channel(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14853.ts
+#EXTINF:-1 channel-id="282" tvg-id="Warner Channel [1080] [Dual audio]" tvg-logo="https://www.fulltv.com.ar/images/tv/warner-channel-3019.png"  channel-id="Warner Channel [1080] [Dual audio]" group-title="CINE Y SERIES",Warner Channel [1080] [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75911.ts
+#EXTINF:-1 channel-id="283" tvg-id="Warner Channel(1080)." tvg-logo="http://images.mi.tv/channels/26ba2241-cf4e-42a7-b0e8-c8bbd06392c9_m.jpg"  channel-id="Warner Channel(1080)." group-title="CINE Y SERIES",Warner Channel(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14852.ts
+#EXTINF:-1 channel-id="284" tvg-id="Warner Channel HD [Dual audio]" tvg-logo=""  channel-id="Warner Channel HD [Dual audio]" group-title="CINE Y SERIES",Warner Channel HD [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75872.ts
+#EXTINF:-1 channel-id="285" tvg-id="-----INFANTILES [1080]-----" tvg-logo="https://www.miscancionesinfantiles.com/wp-content/uploads/2015/10/canciones-infantiles-cortas.jpg"  channel-id="-----INFANTILES [1080]-----" group-title="INFANTILES",-----INFANTILES [1080]-----
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/18350.ts
+#EXTINF:-1 channel-id="286" tvg-id="Baby First(1080)" tvg-logo="http://hwnd.babyfirsttv.com/images/treeThumbs/571755.png"  channel-id="Baby First(1080)" group-title="INFANTILES",Baby First(1080)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14889.ts
+#EXTINF:-1 channel-id="287" tvg-id="Baby TV [720]" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png"  channel-id="Baby TV [720]" group-title="INFANTILES",Baby TV [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91118.ts
+#EXTINF:-1 channel-id="288" tvg-id="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Babyfirst-logo.png"  channel-id="Baby TV" group-title="INFANTILES",Baby TV
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15084.ts
+#EXTINF:-1 channel-id="289" tvg-id="Boomerang(1080)" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.OnAir_Logo_Boomerang_HD_2015.png.8d0c699f1d21a765cb25af9c1418fb18.png"  channel-id="Boomerang(1080)" group-title="INFANTILES",Boomerang(1080)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14869.ts
+#EXTINF:-1 channel-id="290" tvg-id="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png"  channel-id="Boomerang" group-title="INFANTILES",Boomerang
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15094.ts
+#EXTINF:-1 channel-id="291" tvg-id="Cartoon Network(1080)" tvg-logo="https://i.ytimg.com/vi/HbbJ-1o4XZ8/maxresdefault.jpg"  channel-id="Cartoon Network(1080)" group-title="INFANTILES",Cartoon Network(1080)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14868.ts
+#EXTINF:-1 channel-id="292" tvg-id="Cartoon Network [1080] (CO)" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png"  channel-id="Cartoon Network [1080] (CO)" group-title="INFANTILES",Cartoon Network [1080] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92725.ts
+#EXTINF:-1 channel-id="293" tvg-id="Cartoon Network [720] (m)" tvg-logo="https://ugc.kn3.net/i/origin/http://www.top-ten.tv/wp-content/uploads/2013/08/Cartoon-Network-Original-LOGO.png"  channel-id="Cartoon Network [720] (m)" group-title="INFANTILES",Cartoon Network [720] (m)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92534.ts
+#EXTINF:-1 channel-id="294" tvg-id="Cartoon Network [720] (CO)" tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png"  channel-id="Cartoon Network [720] (CO)" group-title="INFANTILES",Cartoon Network [720] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92718.ts
+#EXTINF:-1 channel-id="295" tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/220px-Cartoon_Network_2004_logo.svg.png"  channel-id="Cartoon Network" group-title="INFANTILES",Cartoon Network
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15093.ts
+#EXTINF:-1 channel-id="296" tvg-id="Discovery Kids(1080)." tvg-logo="https://i.ytimg.com/vi/eAOEVnRizOo/maxresdefault.jpg"  channel-id="Discovery Kids(1080)." group-title="INFANTILES",Discovery Kids(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14877.ts
+#EXTINF:-1 channel-id="297" tvg-id="Discovery Kids [1080] [Dual audio]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png"  channel-id="Discovery Kids [1080] [Dual audio]" group-title="DOCUMENTALES",Discovery Kids [1080] [Dual audio]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75916.ts
+#EXTINF:-1 channel-id="298" tvg-id="Discovery Kids [1080] (CO)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png"  channel-id="Discovery Kids [1080] (CO)" group-title="INFANTILES",Discovery Kids [1080] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92724.ts
+#EXTINF:-1 channel-id="299" tvg-id="Discovery Kids [720] (m)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png"  channel-id="Discovery Kids [720] (m)" group-title="INFANTILES",Discovery Kids [720] (m)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92538.ts
+#EXTINF:-1 channel-id="300" tvg-id="Discovery Kids [720] (CO)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png"  channel-id="Discovery Kids [720] (CO)" group-title="INFANTILES",Discovery Kids [720] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92717.ts
+#EXTINF:-1 channel-id="301" tvg-id="Discovery Kids HD" tvg-logo="http://images.mi.tv/channels/co_discovery-kids-hd_m.png"  channel-id="Discovery Kids HD" group-title="INFANTILES",Discovery Kids HD
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15081.ts
+#EXTINF:-1 channel-id="302" tvg-id="Disney Channel [720] (m)" tvg-logo="https://cn.vector.me/files/images/8/5/85714/disney_channel.png"  channel-id="Disney Channel [720] (m)" group-title="INFANTILES",Disney Channel [720] (m)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92537.ts
+#EXTINF:-1 channel-id="303" tvg-id="Disney Channel [1080] (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png"  channel-id="Disney Channel [1080] (CO)" group-title="INFANTILES",Disney Channel [1080] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92723.ts
+#EXTINF:-1 channel-id="304" tvg-id="Disney Channel [720] (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png"  channel-id="Disney Channel [720] (CO)" group-title="INFANTILES",Disney Channel [720] (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92716.ts
+#EXTINF:-1 channel-id="305" tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png"  channel-id="Disney Channel" group-title="INFANTILES",Disney Channel
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15091.ts
+#EXTINF:-1 channel-id="306" tvg-id="Disney Jr [720] (m)" tvg-logo="https://orig00.deviantart.net/08b7/f/2014/192/3/5/disney_junior_2d_logo_template_by_jared33-d7q75w1.png"  channel-id="Disney Jr [720] (m)" group-title="INFANTILES",Disney Jr [720] (m)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92536.ts
+#EXTINF:-1 channel-id="307" tvg-id="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png"  channel-id="Disney Jr" group-title="INFANTILES",Disney Jr
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15090.ts
+#EXTINF:-1 channel-id="308" tvg-id="Disney Xd [720] (m)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Disney_XD_HD.svg/2644px-Disney_XD_HD.svg.png"  channel-id="Disney Xd [720] (m)" group-title="INFANTILES",Disney Xd [720] (m)
+
+
+
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/75878.ts
+#EXTINF:-1 channel-id="363" tvg-id="History" tvg-logo="https://blogs.studyinsweden.se/wp-content/uploads/2016/02/1123676.jpg"  channel-id="History" group-title="DOCUMENTALES",History
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15015.ts
+#EXTINF:-1 channel-id="364" tvg-id="H2 [1080] (e)" tvg-logo="https://www.ontvtonight.ca/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png"  channel-id="H2 [1080] (e)" group-title="DOCUMENTALES",H2 [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92382.ts
+#EXTINF:-1 channel-id="365" tvg-id="H2 [720] (e)" tvg-logo="https://www.ontvtonight.ca/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png"  channel-id="H2 [720] (e)" group-title="DOCUMENTALES",H2 [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92383.ts
+#EXTINF:-1 channel-id="366" tvg-id="H2 [SD] (e)" tvg-logo="https://www.ontvtonight.ca/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png"  channel-id="H2 [SD] (e)" group-title="DOCUMENTALES",H2 [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92384.ts
+#EXTINF:-1 channel-id="367" tvg-id="H2 (CO)" tvg-logo="http://my-hd.tv/shared/img/channels/H2-HD.png"  channel-id="H2 (CO)" group-title="DOCUMENTALES",H2 (CO)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/92275.ts
+#EXTINF:-1 channel-id="368" tvg-id="NATGEO [1080] (e)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"  channel-id="NATGEO [1080] (e)" group-title="CINE Y SERIES",NATGEO [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/96382.ts
+#EXTINF:-1 channel-id="369" tvg-id="NATGEO [720] (e)" tvg-logo=""  channel-id="NATGEO [720] (e)" group-title="DOCUMENTALES",NATGEO [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/96383.ts
+#EXTINF:-1 channel-id="370" tvg-id="NATGEO [SD] (e)" tvg-logo=""  channel-id="NATGEO [SD] (e)" group-title="DOCUMENTALES",NATGEO [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/96384.ts
+#EXTINF:-1 channel-id="371" tvg-id="Nat geo wild. (1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png"  channel-id="Nat geo wild. (1080)" group-title="DOCUMENTALES",Nat geo wild. (1080)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/85516.ts
+#EXTINF:-1 channel-id="372" tvg-id="Nat geo. (1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"  channel-id="Nat geo. (1080)" group-title="DOCUMENTALES",Nat geo. (1080)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/72449.ts
+#EXTINF:-1 channel-id="373" tvg-id="Natgeo" tvg-logo="http://www.hollywoodreporter.com/sites/default/files/2011/12/national_geographic_logo_a_h.jpg"  channel-id="Natgeo" group-title="DOCUMENTALES",Natgeo
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15013.ts
+#EXTINF:-1 channel-id="374" tvg-id="Natgeo Wild(1080)" tvg-logo="http://singteltv.com.sg/_channels/pic_ch207.jpg"  channel-id="Natgeo Wild(1080)" group-title="DOCUMENTALES",Natgeo Wild(1080)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14865.ts
+#EXTINF:-1 channel-id="375" tvg-id="NatGeoWild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png"  channel-id="NatGeoWild" group-title="DOCUMENTALES",NatGeoWild
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15012.ts
+#EXTINF:-1 channel-id="376" tvg-id="Discovery Civilization" tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/Discovery_Civilization_2011-2359x441-773804982.png"  channel-id="Discovery Civilization" group-title="DOCUMENTALES",Discovery Civilization
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/15016.ts
+#EXTINF:-1 channel-id="377" tvg-id="Discovery Home&Health(1080)." tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20140513101549"  channel-id="Discovery Home&Health(1080)." group-title="DOCUMENTALES",Discovery Home&Health(1080).
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/14879.ts
+#EXTINF:-1 channel-id="378" tvg-id="Discovery Home and Health [1080] (CO)" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d9/Discovery_Home_%26_Health_HD.png"  channel-id="Discovery Home and Health [1080] (CO)" group-title="DOCUMENTALES",Discovery Home and Health [1080] (CO)
+
+
+
+
+
+
+*****CINEMA PPV EXTRENOS*****",Latino {} Cinema 01 PPV
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/17145.ts
+#EXTINF:-1 channel-id="605" tvg-id="Latino {} Cinema 02 PPV" tvg-logo="https://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg"  channel-id="Latino {} Cinema 02 PPV" group-title="*****CINEMA PPV EXTRENOS*****",Latino {} Cinema 02 PPV
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/17190.ts
+#EXTINF:-1 channel-id="606" tvg-id="Latino {} Cinema 03 PPV" tvg-logo="https://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg"  channel-id="Latino {} Cinema 03 PPV" group-title="*****CINEMA PPV EXTRENOS*****",Latino {} Cinema 03 PPV
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/17189.ts
+#EXTINF:-1 channel-id="607" tvg-id="Latino {} Cinema 04 PPV" tvg-logo="https://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg"  channel-id="Latino {} Cinema 04 PPV" group-title="*****CINEMA PPV EXTRENOS*****",Latino {} Cinema 04 PPV
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/17188.ts
+#EXTINF:-1 channel-id="608" tvg-id="Latino {} Cinema 05 PPV" tvg-logo="https://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg"  channel-id="Latino {} Cinema 05 PPV" group-title="*****CINEMA PPV EXTRENOS*****",Latino {} Cinema 05 PPV
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/17187.ts
+
+
+
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/54308.ts
+#EXTINF:-1 channel-id="882" tvg-id="COL-CARACOL [1080] (e)" tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg"  channel-id="COL-CARACOL [1080] (e)" group-title="COLOMBIA",COL-CARACOL [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/86257.ts
+#EXTINF:-1 channel-id="883" tvg-id="COL-CARACOL [720]" tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg"  channel-id="COL-CARACOL [720]" group-title="COLOMBIA",COL-CARACOL [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/33918.ts
+#EXTINF:-1 channel-id="884" tvg-id="COL-Caracol TV [1080]" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_2085.png"  channel-id="COL-Caracol TV [1080]" group-title="COLOMBIA",COL-Caracol TV [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91070.ts
+#EXTINF:-1 channel-id="885" tvg-id="COL-CARACOL [720] (e)" tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg"  channel-id="COL-CARACOL [720] (e)" group-title="COLOMBIA",COL-CARACOL [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/86775.ts
+#EXTINF:-1 channel-id="886" tvg-id="COL-CARACOL [SD] (e)" tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg"  channel-id="COL-CARACOL [SD] (e)" group-title="COLOMBIA",COL-CARACOL [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/86776.ts
+#EXTINF:-1 channel-id="887" tvg-id="COL-CARACOL 2 [720]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Caracol_HD2_2017.png/1200px-Caracol_HD2_2017.png"  channel-id="COL-CARACOL 2 [720]" group-title="COLOMBIA",COL-CARACOL 2 [720]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/89296.ts
+#EXTINF:-1 channel-id="888" tvg-id="COL-CARACOL INTERNACIONAL" tvg-logo="http://images.mi.tv/channels/656358ef-9d6d-4662-9df5-99a50eab19b3_m.jpg"  channel-id="COL-CARACOL INTERNACIONAL" group-title="COLOMBIA",COL-CARACOL INTERNACIONAL
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/54296.ts
+#EXTINF:-1 channel-id="889" tvg-id="COL-CARACOL INTERNACIONAL [720]." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Caracol_Internacional_2017.png/640px-Caracol_Internacional_2017.png"  channel-id="COL-CARACOL INTERNACIONAL [720]." group-title="COLOMBIA",COL-CARACOL INTERNACIONAL [720].
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/89297.ts
+#EXTINF:-1 channel-id="890" tvg-id="COL-Caracol." tvg-logo=""  channel-id="COL-Caracol." group-title="COLOMBIA",COL-Caracol.
+
+
+
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91064.ts
+#EXTINF:-1 channel-id="903" tvg-id="COL-RCN [1080] (e)" tvg-logo="http://images.mi.tv/channels/co_canal-rcn-hd_m.png"  channel-id="COL-RCN [1080] (e)" group-title="COLOMBIA",COL-RCN [1080] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/86214.ts
+#EXTINF:-1 channel-id="904" tvg-id="COL-RCN [1080]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png"  channel-id="COL-RCN [1080]" group-title="COLOMBIA",COL-RCN [1080]
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/33914.ts
+#EXTINF:-1 channel-id="905" tvg-id="COL-RCN [720] (e)" tvg-logo="http://images.mi.tv/channels/co_canal-rcn-hd_m.png"  channel-id="COL-RCN [720] (e)" group-title="COLOMBIA",COL-RCN [720] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/86215.ts
+#EXTINF:-1 channel-id="906" tvg-id="COL-RCN [SD] (e)" tvg-logo="http://images.mi.tv/channels/co_canal-rcn-hd_m.png"  channel-id="COL-RCN [SD] (e)" group-title="COLOMBIA",COL-RCN [SD] (e)
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/86216.ts
+
+
+
+
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/90745.ts
+#EXTINF:-1 channel-id="926" tvg-id="COL-TeleCaribe Deportes." tvg-logo="https://es.live-tv-channels.net/pt-data/uploads/logo/co-telecaribe-deportes.jpg"  channel-id="COL-TeleCaribe Deportes." group-title="COLOMBIA",COL-TeleCaribe Deportes.
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/90743.ts
+#EXTINF:-1 channel-id="927" tvg-id="COL-TeleCaribe." tvg-logo="https://2.bp.blogspot.com/-4z48ZPsHlXM/V0StmEL-gDI/AAAAAAAAExk/z4ZGJ-Pida4ya2TANWngviyyWHJxj-lDQCLcB/s1600/Tele.jpg"  channel-id="COL-TeleCaribe." group-title="COLOMBIA",COL-TeleCaribe.
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/90744.ts
+#EXTINF:-1 channel-id="928" tvg-id="COL-Telecaribe.." tvg-logo=""  channel-id="COL-Telecaribe.." group-title="COLOMBIA",COL-Telecaribe..
+http://tv.latintvweb.com:25461/live/efrain2018/efrain2018/91059.ts
